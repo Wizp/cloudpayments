@@ -1,5 +1,7 @@
 # CloudPayments
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/izatop/cloudpayments.svg)](https://greenkeeper.io/)
+
 Библиотека для работы с API и обработки уведомлений от платежного
 сервиса [CloudPayments](https://cloudpayments.ru/Docs/Api).
 
